@@ -1,0 +1,4 @@
+#this file helps git udnerstand what not to show/track in your repo.
+#things won't show up in your git.status for example
+
+node_modules
